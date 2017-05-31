@@ -1,0 +1,3 @@
+#!/bin/bash 
+pyuic5 snuslock.ui > snuslock_ui.py
+pyrcc5 snuslock.qrc > snuslock_rc.py

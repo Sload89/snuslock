@@ -1,0 +1,4 @@
+#!/bin/bash 
+pyuic5 mottaget.ui > mottaget_ui.py
+#pyuic5 fakturera.ui > fakturera_ui.py
+#pyuic5 inlev.ui > inlev_ui.py

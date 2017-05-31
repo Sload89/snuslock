@@ -1,0 +1,3 @@
+#!/bin/bash 
+pyuic5 smaker.ui > smaker_ui.py
+
